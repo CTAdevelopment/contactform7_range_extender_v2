@@ -1,0 +1,23 @@
+.contactform7-output {
+	display: inline-block;
+	line-height: 1;
+	padding: 5px;
+	font-size: x-large;
+}
+
+.wpcf7 input[type="range"] {
+	display: inline-block;
+	width: 80%;
+}
+
+#box_eromheen {
+	display: block;
+	text-align: center;
+}
+
+.text_slider {
+	display: inline-block;
+	line-height: 1;
+	padding: 5px;
+	font-size: 12pt;
+}
